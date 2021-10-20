@@ -58,3 +58,17 @@ If found useful, please cite our work with BibTex:
   year={2018},
   publisher={IEEE}
 }
+
+## Towards concolic testing for hybrid systems:
+https://arxiv.org/pdf/1608.08754.pdf
+
+If found useful, please cite our work with BibTex:
+
+@inproceedings{kong2016towards,
+  title={Towards concolic testing for hybrid systems},
+  author={Kong, Pingfan and Li, Yi and Chen, Xiaohong and Sun, Jun and Sun, Meng and Wang, Jingyi},
+  booktitle={International Symposium on Formal Methods},
+  pages={460--478},
+  year={2016},
+  organization={Springer}
+}
