@@ -10,8 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 Past Projects:
 
-** Anchor-locator: Crash locator for crashed Android apps
+Anchor-locator: Crash locator for crashed Android apps
+[https://github.com/FAndSec/anchor]
+
 Cite with BibTex:
+
 @article{kong2021anchor,
   title={ANCHOR: locating android framework-specific crashing faults},
   author={Kong, Pingfan and Li, Li and Gao, Jun and Riom, Timoth{\'e}e and Zhao, Yanjie and Bissyand{\'e}, Tegawend{\'e} F and Klein, Jacques},
@@ -22,3 +25,4 @@ Cite with BibTex:
   year={2021},
   publisher={Springer}
 }
+
