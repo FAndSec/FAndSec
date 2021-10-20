@@ -8,7 +8,7 @@
 FAndSec/FAndSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Past Projects:
+# Past Projects:
 
 ## Anchor: Bug locator for Android app crashes:
 https://github.com/Anchor-Locator/Anchor-Locator.github.io
