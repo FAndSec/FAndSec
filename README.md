@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Past Projects:
 
-Anchor: Bug locator for Android app crashes:
+## Anchor: Bug locator for Android app crashes:
 https://github.com/Anchor-Locator/Anchor-Locator.github.io
 
 If found useful, please cite our work with BibTex:
@@ -26,7 +26,7 @@ If found useful, please cite our work with BibTex:
   publisher={Springer}
 }
 
-CraftDroid: Automated bug fix miner for Android apps:
+## CraftDroid: Automated bug fix miner for Android apps:
 https://craftdroid.github.io
 
 If found useful, please cite our work with BibTex:
@@ -39,7 +39,7 @@ If found useful, please cite our work with BibTex:
   year={2019}
 }
 
-Systematic Literature Review for Automated Android App Testing:
+## Systematic Literature Review for Automated Android App Testing:
 https://orbilu.uni.lu/bitstream/10993/36765/1/article.pdf
 
 If found useful, please cite our work with BibTex:
