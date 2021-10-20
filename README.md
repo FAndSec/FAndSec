@@ -10,13 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 # Ongoing Projects:
 
-## What does the Folks Say: Mining Android Research Topics from Q&A Forums
+## 1. What does the Folks Say: Mining Android Research Topics from Q&A Forums
 
-## Automating Documentation for Android apps' unchecked exceptions (under peer review)
+## 2. Automating Documentation for Android apps' unchecked exceptions (under peer review)
 
 # Past Projects:
 
-## Anchor: Bug locator for Android app crashes:
+## 3. Anchor: Bug locator for Android app crashes:
 https://github.com/Anchor-Locator/Anchor-Locator.github.io
 
 If found useful, please cite our work with BibTex:
@@ -32,7 +32,7 @@ If found useful, please cite our work with BibTex:
   publisher={Springer}
 }
 
-## CraftDroid: Automated bug fix miner for Android apps:
+## 4. CraftDroid: Automated bug fix miner for Android apps:
 https://craftdroid.github.io
 
 If found useful, please cite our work with BibTex:
@@ -45,7 +45,7 @@ If found useful, please cite our work with BibTex:
   year={2019}
 }
 
-## Systematic Literature Review for Automated Android App Testing:
+## 5. Systematic Literature Review for Automated Android App Testing:
 https://orbilu.uni.lu/bitstream/10993/36765/1/article.pdf
 
 If found useful, please cite our work with BibTex:
@@ -61,7 +61,7 @@ If found useful, please cite our work with BibTex:
   publisher={IEEE}
 }
 
-## Towards concolic testing for hybrid systems:
+## 6. Towards concolic testing for hybrid systems:
 https://arxiv.org/pdf/1608.08754.pdf
 
 If found useful, please cite our work with BibTex:
