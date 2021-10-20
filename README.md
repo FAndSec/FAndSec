@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Ongoing Projects:
 
-## Automating Documentation for Android apps' unchecked exceptions (under review)
+## Automating Documentation for Android apps' unchecked exceptions (under peer review)
 
 # Past Projects:
 
