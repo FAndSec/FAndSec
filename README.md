@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Past Projects:
 
-**Anchor-locator: Crash locator for crashed Android apps
+** Anchor-locator: Crash locator for crashed Android apps
 Cite with BibTex:
 @article{kong2021anchor,
   title={ANCHOR: locating android framework-specific crashing faults},
